@@ -1,22 +1,3 @@
-# custom-visualization
+# New Relic Custom Visualization Boilerplate
 
-## Getting started
-
-Run the following scripts:
-
-```
-npm install
-npm start
-```
-
-Visit https://one.newrelic.com/?nerdpacks=local and :sparkles:
-
-## Creating new artifacts
-
-If you want to create new artifacts run the following command:
-
-```
-nr1 create
-```
-
-> Example: `nr1 create --type nerdlet --name my-nerdlet`.
+This repo provides a starting boilerplate example for build a visualization. It comes with a context provider for configuration propagation. Rememebr to `npm install` :)

@@ -1,0 +1,14 @@
+{
+    "schemaType": "VISUALIZATION",
+    "id": "example-viz",
+    "displayName": "ExampleViz",
+    "description": "",
+    "configuration": [
+        {
+            "name": "greeting",
+            "title": "Your greeeting",
+            "description": "An example of a visualization configuration item.",
+            "type": "string"
+        }
+    ]
+}
